@@ -1,3 +1,3 @@
 # Coco_food_Bot
 
-A food ordering bot made using dialogflow 
+A food ordering chat-bot made using dialogflow 
